@@ -42,9 +42,6 @@
       "<td class='releaseDate'>" . $row['ReleaseDate'] . "</td>".
       "</tr>";
  }
-
- $variable = 2;
-
 ?>
 </table>
 <form id="add-form" method="post">
